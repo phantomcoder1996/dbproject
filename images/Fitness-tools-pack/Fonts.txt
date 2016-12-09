@@ -1,0 +1,10 @@
+Fonts used in this design;
+
+Font: BPdots, 
+Author: Backpacker, 
+Url: http://www.fontsquirrel.com/fonts/BPdots; 
+
+Font: Exo 2, 
+Author: Natanael Gama, 
+Url: http://www.fontsquirrel.com/fonts/exo-2; 
+
